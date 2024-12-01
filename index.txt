@@ -1,1 +1,2 @@
 We are on the feature branch
+We are the about us section
